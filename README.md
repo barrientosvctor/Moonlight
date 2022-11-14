@@ -1,1 +1,1 @@
-**Important notice:** This branch is deprecated.
+**Important notice:** This branch has deprecated code and it will not longer supported.
